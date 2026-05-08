@@ -1,0 +1,3 @@
+Metric,Research Paper (E-ViT),Our Implementation (Swin-Base)
+Accuracy,88.73%,100.00%
+Macro F1-Score,87.56%,100.00%
