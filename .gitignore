@@ -4,3 +4,6 @@ Dataset_3_Classes/
 __results___files/
 __pycache__/
 __logs__files/
+.venv/
+test_data/
+*.pth
