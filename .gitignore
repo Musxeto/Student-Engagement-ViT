@@ -9,3 +9,4 @@ test_data/
 *.pth
 videos/
 engagement_dataset/
+dataset_creation/engagement_dataset.zip
