@@ -7,3 +7,5 @@ __logs__files/
 .venv/
 test_data/
 *.pth
+videos/
+engagement_dataset/
